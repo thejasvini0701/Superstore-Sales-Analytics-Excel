@@ -43,8 +43,8 @@ The dashboard provides a visual summary of the sales analysis using KPI cards an
 
 ## Project Files
 
-* `Superstore_Sales_Analytics.xlsx` – Complete Excel analysis
-* `Dashboard.png` – Dashboard preview
+* `Excel sales dashboard .csv` – Complete Excel analysis
+* `Excel Dashboard.png` – Dashboard preview
 
 ## Key Findings
 
