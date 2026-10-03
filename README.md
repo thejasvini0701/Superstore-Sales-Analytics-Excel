@@ -44,7 +44,7 @@ The dashboard provides a visual summary of the sales analysis using KPI cards an
 ## Project Files
 
 * `Excel sales dashboard .csv` – Complete Excel analysis
-* `Excel Dashboard.png` – Dashboard preview
+* `EXCEL DASHBOARD.png` – Dashboard preview
 
 ## Key Findings
 
